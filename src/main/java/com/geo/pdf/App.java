@@ -11,9 +11,11 @@ import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.PdfWriter;
 
 /**
- * * Java Program to generate PDF document using iText library. 
+ * @author geo
+ * Java Program to generate PDF document using iText library. 
  */
 public class App {
+
 	public static void main(String args[]) {
 		OutputStream file = null;
 		try {
